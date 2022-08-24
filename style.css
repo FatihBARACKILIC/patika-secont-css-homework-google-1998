@@ -1,0 +1,48 @@
+#logo {
+  display: flex;
+  justify-content: center;
+}
+
+table {
+  margin: auto;
+}
+
+td {
+  text-align: center;
+}
+
+#search-container {
+  background-color: #eeeeee;
+  width: 90%;
+  margin: auto;
+}
+
+footer {
+  width: 90%;
+  margin: auto;
+}
+
+footer table {
+  width: 100%;
+}
+
+footer table tr td#first {
+  background-color: #7ee5da;
+  width: 37%;
+}
+
+footer table tr td#second {
+  background-color: #70ccc2;
+  font-size: small;
+}
+
+footer table tr td#third {
+  background-color: #62b3aa;
+  font-size: small;
+}
+
+#copyright {
+  margin: 1em auto 0px;
+  text-align: center;
+  font-size: small;
+}
